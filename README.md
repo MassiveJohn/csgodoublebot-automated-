@@ -14,7 +14,7 @@ A martinggale or antimartinggale bot for csgodouble.com!
 <img src="https://i.gyazo.com/5389ea6d51f1a38e7179b09054889963.png" alt="4">
 
 <h1>5. Start playing.</h1> 
-<img src="https://i.gyazo.com/9acc626e2756f1192710090f8fc3635c.png" alt="5">
+<img src="https://i.gyazo.com/0e028614dc4540c8a4cb94da4d2d3881.png" alt="5">
 
 
 <p> Have fun </p>
