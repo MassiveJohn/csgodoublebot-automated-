@@ -10,7 +10,7 @@ A martinggale or antimartinggale bot for csgodouble.com!
 <h1>3. Remove everything</h1> 
 <img src="https://i.gyazo.com/9073c8492d5a70afc82a2237bfe79081.png" alt="3">
 
-<h1>4. Copy paste the javascript code!</h1> 
+<h1>4. Copy paste the javascript code! <a href="https://github.com/MassiveJohn/csgodoublemartingale/blob/master/csgodoublebot.js">Click here</a></h1> 
 <img src="https://i.gyazo.com/5389ea6d51f1a38e7179b09054889963.png" alt="4">
 
 <h1>5. Start playing.</h1> 
