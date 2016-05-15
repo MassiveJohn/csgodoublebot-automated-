@@ -1,6 +1,14 @@
 # Easy to install csgodouble bot!!!
 A martinggale or antimartinggale bot for csgodouble.com!
 
+Copy paste the code into console or tampermonkey/greasemonkey script.!!
+
+You can get these addons here: 
+
+<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de&gl=DE">Tampermonkey (Chrome)</a>
+
+<a href="https://addons.mozilla.org/de/firefox/addon/greasemonkey/">Greasemoney (Firefox)</a>
+
 <h1>1. Click on add new script</h1> 
 <img src="https://i.gyazo.com/9dda416e1befc8bec5477a768331f8f3.gif" alt="1">
 
