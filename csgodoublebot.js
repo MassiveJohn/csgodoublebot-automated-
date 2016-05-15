@@ -223,11 +223,9 @@ function Automated() {
 
     this.menu.start.onclick = function() {
         start(self.balance);
-        self.log('Didn\'t they warn you not to use bots?');
+        self.log('Error: No refresh the page!');
 
-        //Very nice bot?!
-
-        // self.start();
+   
     };
 
     this.menu.stop.onclick = function() {
@@ -277,7 +275,7 @@ function Automated() {
 		self.menu.safebetamount.disabled = !self.menu.calculatesafebet.checked;
 	};
 
-    // WTF is this shit below? >,.,<
+ // opinions // mode
 
     this.menu.black.onclick = function() {
         self.menu.rainbow.disabled = false;
@@ -409,7 +407,7 @@ Automated.prototype.updateBalance = function() {
     return true;
 };
 
-Automated.prototype.updateHistory = function() {
+Automated.prototype.updateHistory = function() { //refresh
     var self = this;
     this.history = [];
 
@@ -638,7 +636,7 @@ Automated.prototype.stop = function(abort) {
         self.menu.abort.disabled = true;
         self.menu.stop.disabled = true;
         self.menu.start.disabled = false;
-    }, 1); // Next tick
+    }, 1); 
 };
 
 Automated.prototype.darkMode = function() {
@@ -671,4 +669,4 @@ Automated.prototype.logdebug = function(message) {
     chat('italic', '[Automated] ' + message);
 };
 
-var automated = new Automated();
+var automated = new Automated(); // start the progress
